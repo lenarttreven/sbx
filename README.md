@@ -21,7 +21,7 @@ Implemented algorithms:
 
 For the latest master version:
 ```
-pip install git+https://github.com/araffin/sbx
+pip install git+https://github.com/lenarttreven/sbx
 ```
 or:
 ```
